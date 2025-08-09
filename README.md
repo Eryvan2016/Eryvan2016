@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Eyvan and I'm a fullstack developer at Pajeu Tech</p>
+<p align="left">My name is Eryvan and I'm a fullstack developer at Pajeu Tech</p>
 
 ###
 
